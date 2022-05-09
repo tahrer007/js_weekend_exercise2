@@ -34,7 +34,7 @@ function ImpMap(arr) {
   return arr3;
 }
 
-console.log("**************the advanced methods : ************");
+//console.log("**************the advanced methods : ************");
 
 ImforEach(arr);
 console.log(ImpFilter(arr));
